@@ -33,8 +33,6 @@ public class MainActivity extends AppCompatActivity {
                         Toast.makeText(getApplicationContext(), "加载完成", Toast.LENGTH_LONG).show();
                     }
                 });
-                customProgress.post()
-
             }
         });
 
