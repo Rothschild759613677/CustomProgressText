@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="maxProgress" format="integer"/>
+    <attr name="fontSize" format="dimension"/>
+    <attr name="fontColor" format="color"/>
+    <attr name="circleArcColor" format="color"/>
+    <attr name="circleArcWidth" format="dimension"/>
+    <attr name="circleColor" format="color"/>
+    <attr name="startAngle" format="integer"/>
+
+    <declare-styleable name="CustomProgress">
+        <attr name="maxProgress"/>
+        <attr name="fontSize"/>
+        <attr name="fontColor"/>
+        <attr name="circleArcColor"/>
+        <attr name="circleArcWidth"/>
+        <attr name="circleColor"/>
+        <attr name="startAngle"/>
+    </declare-styleable>
+</resources>
